@@ -26,10 +26,10 @@ def fourier_transform(signal,Fe):
 def fourier_transform_positif(signal,Fe):
     pass
 
-def inverse_fourier_transform(FT,Fe):
+def define_times(n,Fe):
     pass
 
-def define_times(n,Fe):
+def inverse_fourier_transform(FT,Fe):
     pass
 
 def low_pass(Y,freq,fc):
